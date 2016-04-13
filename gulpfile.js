@@ -1,9 +1,8 @@
 /**
  * gulp的主文件，用于注册任务
  * @Author: lily
- * @Date:   2015-01-26 12:07:26
  * @Last Modified by:   lily
- * @Last Modified time: 2015-01-26 14:56:34
+ * @Last Modified time: 2014-04-13 14:56:34
  */
 
 var gulp = require('gulp');  //载入gulp包
